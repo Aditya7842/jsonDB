@@ -1,6 +1,5 @@
-[
- {
-        "number": "01",
+
+    {   "number": "01",
         "person": "Jarrod Overson",
         "comment": "Was Rust Worth It?",
         "date": "Oct 26",
@@ -84,4 +83,4 @@
         "read": "9 min read"
     },
 
-]
+
