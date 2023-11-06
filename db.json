@@ -33,54 +33,6 @@
         "date": "Nov 2",
        
     },
-    {
-        "number": "06",
-        "person": "Bhoomy Singh",
-        "comment": "What was the hardest thing about quitting my job at google",
-        "date": "Nov 3",
-
-    },
-    {
-        "number": "07",
-        "person": "Emily Johnson",
-        "comment": "Exploring the Future of Quantum Computing",
-        "date": "Nov 4",
-  
-    },
-    {
-        "number": "08",
-        "person": "Michael Lee",
-        "comment": "The Impact of Artificial Intelligence on Job Market",
-        "date": "Nov 6",
- 
-    },
-    {
-        "number": "09",
-        "person": "Sophie Anderson",
-        "comment": "Building Sustainable Tech Products: Challenges and Solutions",
-        "date": "Nov 7",
-        
-    },
-    {
-        "number": "10",
-        "person": "David Miller",
-        "comment": "Diving into the World of Augmented Reality",
-        "date": "Nov 8",
-   
-    },
-    {
-        "number": "11",
-        "person": "Linda Chen",
-        "comment": "The Role of Blockchain in Supply Chain Management",
-        "date": "Nov 9",
-       
-    },
-    {
-        "number": "12",
-        "person": "Carlos Rodriguez",
-        "comment": "Challenges and Innovations in Cybersecurity",
-        "date": "Nov 10",
-
-    }]
+   ]
 
 
