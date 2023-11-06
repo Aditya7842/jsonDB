@@ -3,84 +3,84 @@
         "person": "Jarrod Overson",
         "comment": "Was Rust Worth It?",
         "date": "Oct 26",
-        "read": "8 min read"
+       
     },
     {
         "number": "02",
         "person": "Aditya Chaudhary",
         "comment": "App dev or Web dev? ",
         "date": "Nov 5",
-        "read": "6 min read"
+ 
     },
     {
         "number": "03",
         "person": "Ashley Mayer",
         "comment": "We need more women founders on offense",
         "date": "Nov 1",
-        "read": "3 min read"
+        
     },
     {
         "number": "04",
         "person": "Netflix",
         "comment": "Streaming SQL in Data mesh",
         "date": "Nov 3",
-        "read": "7 min read"
+       
     },
     {
         "number": "05",
         "person": "Pedro Minate",
         "comment": "Announcing the Arduino",
         "date": "Nov 2",
-        "read": "6 min read"
+       
     },
     {
         "number": "06",
         "person": "Bhoomy Singh",
         "comment": "What was the hardest thing about quitting my job at google",
         "date": "Nov 3",
-        "read": "2 min read"
+
     },
     {
         "number": "07",
         "person": "Emily Johnson",
         "comment": "Exploring the Future of Quantum Computing",
         "date": "Nov 4",
-        "read": "5 min read"
+  
     },
     {
         "number": "08",
         "person": "Michael Lee",
         "comment": "The Impact of Artificial Intelligence on Job Market",
         "date": "Nov 6",
-        "read": "4 min read"
+ 
     },
     {
         "number": "09",
         "person": "Sophie Anderson",
         "comment": "Building Sustainable Tech Products: Challenges and Solutions",
         "date": "Nov 7",
-        "read": "8 min read"
+        
     },
     {
         "number": "10",
         "person": "David Miller",
         "comment": "Diving into the World of Augmented Reality",
         "date": "Nov 8",
-        "read": "6 min read"
+   
     },
     {
         "number": "11",
         "person": "Linda Chen",
         "comment": "The Role of Blockchain in Supply Chain Management",
         "date": "Nov 9",
-        "read": "7 min read"
+       
     },
     {
         "number": "12",
         "person": "Carlos Rodriguez",
         "comment": "Challenges and Innovations in Cybersecurity",
         "date": "Nov 10",
-        "read": "9 min read"
+
     }]
 
 
