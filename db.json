@@ -2,37 +2,37 @@
     [{   "number": "01",
         "person": "Jarrod Overson",
         "comment": "Was Rust Worth It?",
-        "date": "Oct 26",
+        "date": "Oct 26"
        
     },
     {
         "number": "02",
         "person": "Aditya Chaudhary",
         "comment": "App dev or Web dev? ",
-        "date": "Nov 5",
+        "date": "Nov 5"
  
     },
     {
         "number": "03",
         "person": "Ashley Mayer",
         "comment": "We need more women founders on offense",
-        "date": "Nov 1",
+        "date": "Nov 1"
         
     },
     {
         "number": "04",
         "person": "Netflix",
         "comment": "Streaming SQL in Data mesh",
-        "date": "Nov 3",
+        "date": "Nov 3"
        
     },
     {
         "number": "05",
         "person": "Pedro Minate",
         "comment": "Announcing the Arduino",
-        "date": "Nov 2",
+        "date": "Nov 2"
        
-    },
+    }
    ]
 
 
